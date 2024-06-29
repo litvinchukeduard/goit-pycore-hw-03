@@ -1,0 +1,4 @@
+def third():
+    pass
+
+third()
